@@ -5,5 +5,7 @@ I've recently taken on the challenge of learning Angular. Throughout the process
 ##RUNNING APPLICATION
 
 #####Nothing fancy here
+<BR>
 `npm i`
+<BR>
 `ng serve`
