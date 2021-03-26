@@ -1,0 +1,16 @@
+<div class="article">
+
+    <div class="voting">
+        <a href (click)="voteUp()">UP VOTE</a>
+        <div>{{ article.votes }}</div>
+        <a href (click)="voteDown()">DOWN VOTE</a>
+    </div>
+
+    <div>
+        <a href="{{ article.link }}" targe="_blank">{{ article.title }}</a>
+    </div>
+    <div>
+        {{ article.domain() }}
+    </div>
+
+</div>
