@@ -1,6 +1,8 @@
 #Reddit Clone
 
-I've recently taken on the challenge of learning Angular. Throughout the process I am hoping that many things that I've learned from React are relatable and help me in my journey.
+I oversold myself with the name of the repo. 
+This will be a simple application that allows entering of a new site, title and vote up / down.
+Votes will automatically be sorted from highest to lowest. 
 
 ##RUNNING APPLICATION
 
